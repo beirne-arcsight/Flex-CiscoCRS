@@ -1,0 +1,11 @@
+event.deviceEventClassId,set.event.categoryObject,set.event.categoryBehavior,set.event.categoryTechnique,set.event.categoryDeviceGroup,set.event.categorySignificance,set.event.categoryOutcome,set.event.originator
+ciscocrs:0:0,/Host/Application/Service,/Communicate/Request,,/Application,/Informational,/Failure,Source
+ciscocrs:0:1,/Host/Application/Service,/Communicate/Request,,/Application,/Informational,/Failure,Source
+ciscocrs:0:2,/Host/Application/Service,/Communicate/Response,,/Application,/Normal,/Success,Source
+ciscocrs:1:0,/Host/Application/Service,/Access/Stop,,/Application,/Normal,/Success,Source
+ciscocrs:1:1,/Host/Application/Service,/Communicate,,/Application,/Informational,/Failure,Source
+ciscocrs:1:2,/Host/Application/Service,/Communicate,,/Application,/Informational,/Failure,Source
+ciscocrs:2:0,/Host/Application/Service,/Authentication/Verify,,/Application,/Informational/Warning,/Failure,Source
+ciscocrs:3:0,/Host/Application/Service,/Authentication/Verify,,/Application,/Normal,/Success,Source
+ciscocrs:4:0,/Host/Application/Service,/Authentication/Verify,,/Application,/Normal,/Success,Source
+ciscocrs:5:0,/Host/Application/Service,/Modify/Configuration,,/Application,/Informational,/Success,Source
